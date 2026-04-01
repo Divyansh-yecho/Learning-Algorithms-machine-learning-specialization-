@@ -1,0 +1,6 @@
+This folder contains my implementation of a more advanced linear regression model applied to predicting building energy consumption. 
+Instead of using a simple linear relationship, I extended the model with feature engineering by adding polynomial terms, interaction features, 
+and a cyclic representation of time to capture nonlinear patterns. 
+The model is trained using gradient descent with L2 regularization to improve stability and reduce overfitting. 
+I also included feature normalization, cost tracking during training, and prediction on new data. 
+This was done as a practice exercise to understand how linear regression can be scaled and adapted to handle more realistic, complex problems.
