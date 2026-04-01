@@ -1,5 +1,0 @@
-This folder contains my implementation of a collaborative filtering based recommendation system built from scratch. 
-I used a small subset of movie rating data to learn latent features for both users and movies, and trained the model using a regularized cost function optimized with gradient descent. 
-The system predicts missing ratings and generates personalized movie recommendations by ranking unseen movies based on predicted scores. 
-I also included a comparison of actual vs predicted ratings and computed RMSE to evaluate performance. 
-This was done as a practice exercise to better understand how recommendation systems work mathematically and in code.
