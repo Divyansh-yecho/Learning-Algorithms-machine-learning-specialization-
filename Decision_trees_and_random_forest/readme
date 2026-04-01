@@ -1,0 +1,13 @@
+Decision Trees and Random Forest
+
+This file implements Decision Tree and Random Forest models for classification.
+
+Builds a decision tree to learn patterns from data using feature splits
+Extends to a random forest by combining multiple trees for improved accuracy and robustness
+Compares model performance and predictions
+Output
+Predicted labels for the dataset
+Improved generalization using ensemble learning (Random Forest over single tree)
+Key Idea
+
+Decision Trees learn simple rules from data, while Random Forest reduces overfitting by averaging multiple trees.
