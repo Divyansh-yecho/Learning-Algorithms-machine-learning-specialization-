@@ -1,7 +1,0 @@
-This folder contains my practice implementations of two core unsupervised learning algorithms: 
-K-Means clustering and Gaussian anomaly detection. 
-I implemented K-Means from scratch to understand how clustering works through iterative assignment and centroid updates, 
-and applied it to both a simple dataset and image compression by reducing the number of colors. 
-I also implemented anomaly detection using a Gaussian model by estimating mean and variance, computing probabilities, 
-and selecting a threshold using the F1 score to identify outliers. Overall, this was part of my effort to build a clearer understanding 
-of how these algorithms work mathematically and in code.
